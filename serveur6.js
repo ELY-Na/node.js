@@ -1,4 +1,4 @@
-// permet d'écouter un événement quand le serveur s'arrête
+ // permet d'écouter un événement quand le serveur s'arrête
 let http = require('http');
 
 let server = http.createServer(function(req, res){
